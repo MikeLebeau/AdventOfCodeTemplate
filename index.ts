@@ -1,0 +1,1 @@
+import allPuzzle from "./days/index.js";

@@ -1,9 +1,10 @@
 {
   "scripts": {
-    "dev": "npx --node-options='--max-old-space-size=8192' ts-node index.ts",
+    "dev": "npx --node-options='--max-old-space-size=8192' tsx index.ts",
     "watch": "nodemon index.ts"
   },
   "devDependencies": {
+    "tsx": "^4.19.2",
     "typescript": "^5.7.2"
   },
   "dependencies": {

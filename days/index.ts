@@ -1,5 +1,4 @@
-const alldays = {
-
+const allPuzzle = {
 };
 
-export default alldays;
+export default allPuzzle;
